@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: Lab exercises will introduce you to process planning and the tools and
+  how to design and manufacture.
 learning_resource_types:
 - Labs
 ocw_type: CourseSection
